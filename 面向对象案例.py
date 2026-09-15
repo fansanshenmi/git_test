@@ -38,6 +38,7 @@ class Book:
         return self.__available_num
 
 print("GIT练习")
+print("test")
 # =========================
 # 会员抽象类
 # =========================
