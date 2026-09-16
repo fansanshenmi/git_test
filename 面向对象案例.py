@@ -41,13 +41,11 @@ print("GIT练习")
 print("测试")
 print("这是main分支的修改")
 print("这是电脑C修改")
-<<<<<<< HEAD
 print("main第一次修改")
-=======
 print("feature第一次修改")
 print("这是未完成的")
+print("这是 cherry-pick 测试代码")
 
->>>>>>> cad3248 (feat: feature第一次修改)
 # =========================
 # 会员抽象类
 # =========================
